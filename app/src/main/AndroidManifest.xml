@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SIU_project">
         <activity
+            android:name=".TodoWriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TodowriteActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TodoActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
