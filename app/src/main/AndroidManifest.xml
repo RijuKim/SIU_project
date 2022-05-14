@@ -13,7 +13,7 @@
             android:name=".TodoWriteActivity"
             android:exported="false" />
         <activity
-            android:name=".TodowriteActivity"
+            android:name=".TodoWriteActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
